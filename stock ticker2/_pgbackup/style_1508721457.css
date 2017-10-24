@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+};
+
+img { 
+  height: auto; 
+  width: 100%; 
+}
+
+body {
+  background: url(https://images.unsplash.com/photo-1498642145410-c61aa8483bcb?w=2980);
+  background-size: cover;
+}

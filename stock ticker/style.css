@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+};
+
+img { 
+  height: auto; 
+  width: 100%; 
+}
+
+body {
+  background: url(https://images.unsplash.com/photo-1506440905961-0ab11f2ed5bc?w=2815);
+  background-size: cover; 
+}
